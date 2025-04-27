@@ -28,7 +28,7 @@ local Window = Fluent:CreateWindow({
     TabWidth = 157,
     Size = UDim2.fromOffset(450, 300),
     Acrylic = true,
-    Theme = "NotAnotherAnimeTheme",
+    Theme = "Frosted Glass",
     MinimizeKey = Enum.KeyCode.End
 })
 local Tabs = {
